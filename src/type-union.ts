@@ -1,0 +1,5 @@
+let unionId: number | string
+unionId = 15
+console.log(typeof(unionId))
+unionId = "15"
+console.log(typeof(unionId))
